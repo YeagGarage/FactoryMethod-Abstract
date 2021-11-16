@@ -2,10 +2,12 @@
 ![swift](https://img.shields.io/badge/Swift-4.2-red)  
 ![target-ios](https://img.shields.io/badge/Target-iOS%20%7C%2010-blue)
 
+
 # FactoryMethod-Abstract for iOS
 --------------
 
 This project is the example to show how to implement FactoryMethod Abstract in Swift.
+
 
 ## Requirements
 
@@ -18,14 +20,17 @@ This project was written in Swift 4.2 and requires XCode 10 to build and run.
 - Swift 4.2
 - iOS 10.0 or later
 
+
 ## External Libraries
 
 - 🚫
+
 
 ## Application Architecture
 
 - FactoryMethod
 - Abstract
+
 
 ## What I've done 🛍
 - The application is a simple iOS shop example which is written by Swift.
@@ -34,8 +39,6 @@ This project was written in Swift 4.2 and requires XCode 10 to build and run.
 ## License
 Copyright © 2019 Woop All rights reserved.
 
-Why Use It:
-* Cleaner Code & Architectures
 
 
 ![alt text](https://raw.githubusercontent.com/YeagGarage/FactoryMethod-Abstract/YeagGarage-patch-1/FactoryMethodDesignPattern.jpg)
