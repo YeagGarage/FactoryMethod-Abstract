@@ -1,6 +1,6 @@
 ![platform](https://img.shields.io/badge/platform-iOS-lightgrey) 
 ![swift](https://img.shields.io/badge/Swift-4.2-red)  
-![target-ios](https://img.shields.io/badge/Target-iOS%2010-blue)
+![target-ios](https://img.shields.io/badge/Target-iOS%%7C%2010-blue)
 ![target-ios](https://img.shields.io/badge/Target-iOS%20%7C%2012.1-blue)
 
 # FactoryMethod-Abstract for iOS
